@@ -1,0 +1,13 @@
+$page-background: rgb(248, 248, 248);
+page {
+    font-family: "Avenir", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: $page-background;  /*设置页面背景颜色*/
+  }
+.title-style {
+    color:$cell-group-title-color;
+    font-size: $font-size-3;
+    line-height: 20px;
+    padding: 13px 16px;
+}

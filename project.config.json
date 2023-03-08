@@ -1,0 +1,15 @@
+{
+  "miniprogramRoot": "./dist/weapp",
+  "projectname": "test",
+  "description": "",
+  "appid": "wx62405c8709f723ed",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
