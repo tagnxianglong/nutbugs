@@ -2,10 +2,8 @@ export default defineAppConfig({
   pages: [
     'pages/index/index',
     'pages/my/index',
-    'pages/toolspack/compute/index',
     'pages/component/errorPage/404',
     'pages/component/test',
-    'pages/webview/index',
 
   ],
   tabBar: {
@@ -24,7 +22,7 @@ export default defineAppConfig({
         pagePath: 'pages/component/test',
         selectedIconPath: 'images/QRcode-2.png',
         iconPath: 'images/QRcode.png',
-        text: '医院简介'
+        text: '测试'
       },
       {
         pagePath: 'pages/my/index',
